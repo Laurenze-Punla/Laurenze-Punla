@@ -4,9 +4,9 @@ I'm a Computer Science student majoring in Data Science, with a growing passion 
 
 ### 🚀 What I'm up to
 
-- 🔭 **Currently working on:** Completing [Learn to Cloud](https://learntocloud.guide/) and working on hands-on projects to put what I've learned into practice.
-- 🌱 **Currently learning:** AWS services, networking, Microsoft security solutions, and DevOps.
-- 🎯 **Working toward:** My CCNA and Microsoft SC-200 certifications, while continuing to explore cloud architecture and security.
+- 🔭 **Currently working on:** Completing [Learn to Cloud](https://learntocloud.guide/) and building hands-on projects to put my cloud knowledge into practice.
+- 🌱 **Currently learning:** AWS services, cloud architecture, and DevOps.
+- 🎯 **Working toward:** My AWS Solutions Architect - Associate (SAA) and Developer - Associate (DVA) certifications.
 - 👯 **Looking to collaborate on:** Cybersecurity and cloud projects, as well as open-source security repositories.
 - 💼 **Looking for:** Cybersecurity and Cloud Engineering internship opportunities where I can learn from others, contribute, and gain real-world experience.
 
@@ -18,11 +18,10 @@ I'm a Computer Science student majoring in Data Science, with a growing passion 
 
 ### 🛠️ Areas of Interest
 
-- Cybersecurity & Security Operations
-- Cloud Computing & AWS
-- Networking & Infrastructure
-- Threat Hunting & Incident Response
-- DevSecOps & Automation
+- Cybersecurity
+- Cloud Computing 
+- Networking 
+- DevOps 
 
 ### 📫 Let's Connect!
 
