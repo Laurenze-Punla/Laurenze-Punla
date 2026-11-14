@@ -1,6 +1,6 @@
 ## Hello there! 👋 I'm Laurenze!
 
-I'm a Computer Science student majoring in Data Science, with a growing passion for **Cybersecurity and Cloud Computing**. I enjoy exploring these fields, learning new technologies, and challenging myself to take on things outside my comfort zone. I'm always looking for opportunities to learn, build, and gain hands-on experience along the way!
+I'm a Computer Science student majoring in Data Science, with a growing passion for **Cybersecurity and Cloud Computing**. 
 
 ### 🚀 What I'm up to
 
@@ -21,17 +21,22 @@ I'm a Computer Science student majoring in Data Science, with a growing passion 
 - Cybersecurity
 - Cloud Computing 
 - Networking 
-- DevOps 
+- DevOps
+
+### ☕ A Little About Me
+
+- 🐈 **Cat person:** I will probably stop to pet every cat I come across.
+- ☕ **Coffee enthusiast:** Always down for a good cup of coffee!
+- 🏴‍☠️ **Hacker:** I love hacking, solving CTF challenges, and learning about cybersecurity.
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I passed CompTIA Security+ in just two weeks!
 
 ### 📫 Let's Connect!
 
 - **Email:** laurenze.roque.punla@gmail.com
 - **LinkedIn:** [linkedin.com/in/laurenze-punla-610638343](https://www.linkedin.com/in/laurenze-punla-610638343)
 
-😄 **Pronouns:** He/Him
-
-⚡ **Fun fact:** I'm a Computer Science student majoring in Data Science who decided to venture into cybersecurity and passed CompTIA Security+ in just two weeks!
-
 Feel free to explore my repositories, connect with me on LinkedIn, or just say hello. I'm always happy to meet people who share the same interests!
 
 Hope you have a wonderful day! ☕
+
