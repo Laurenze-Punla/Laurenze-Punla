@@ -25,7 +25,7 @@ I'm a Computer Science student majoring in Data Science, with a growing passion 
 
 - 🐈 **Cat person:** I will probably stop to pet every cat I come across.
 - ☕ **Coffee enthusiast:** Always down for a good cup of coffee!
-- 🏴‍☠️ **Mr. Robot Fan:** Hello, friend
+- 🏴‍☠️ **Mr. Robot Fan:** Hello, friend.
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I passed CompTIA Security+ in just two weeks!
 
