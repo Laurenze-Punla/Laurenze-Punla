@@ -18,10 +18,8 @@ I'm a Computer Science student majoring in Data Science, with a growing passion 
 
 ### 🛠️ Areas of Interest
 
-- Cybersecurity
-- Cloud Computing 
-- Networking 
-- DevOps
+- Cybersecurity & Networking
+- Cloud Computing & DevOps
 
 ### ☕ A Little About Me
 
