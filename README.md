@@ -34,7 +34,7 @@ I'm a Computer Science student majoring in Data Science, with a growing passion 
 - **Email:** laurenze.roque.punla@gmail.com
 - **LinkedIn:** [linkedin.com/in/laurenze-punla-610638343](https://www.linkedin.com/in/laurenze-punla-610638343)
 
-Feel free to explore my repositories, connect with me on LinkedIn, or just say hello. I'm always happy to meet people who share the same interests!
+Feel free to explore my repositories, connect with me on LinkedIn, or just say hello. I'm always happy to meet people who share the same interests! 🥰
 
 Hope you have a wonderful day! ☕
 
