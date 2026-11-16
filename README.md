@@ -5,7 +5,7 @@ I'm a Computer Science student majoring in Data Science, with a growing passion 
 ### 🚀 What I'm up to
 
 - 🔭 **Currently working on:** Completing [Learn to Cloud](https://learntocloud.guide/) and building hands-on projects to put my cloud knowledge into practice.
-- 🌱 **Currently learning:** AWS services, Git, GitHub, and DevOps.
+- 🌱 **Currently learning:** AWS, Git, GitHub, and DevOps.
 - 🎯 **Working toward:** My AWS Solutions Architect - Associate (SAA) and Developer - Associate (DVA) certifications.
 - 👯 **Looking to collaborate on:** Cybersecurity and cloud projects, as well as open-source security repositories.
 - 💼 **Looking for:** Cybersecurity and Cloud Engineering internship opportunities where I can learn from others, contribute, and gain real-world experience.
